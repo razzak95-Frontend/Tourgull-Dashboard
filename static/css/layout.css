@@ -1,0 +1,16 @@
+.dash-navbar {
+    box-shadow: rgb(0 0 0 / 0%) 0px 1px 3px, rgb(0 0 0 / 11%) 0px 1px 2px;
+    background-color: #7C7BAD;
+}
+
+.navbar {
+    padding: 0.2rem 1rem;
+}
+
+.section {
+    margin: 30px 0px;
+}
+
+.section .header {
+    margin-bottom: 20px;
+}
